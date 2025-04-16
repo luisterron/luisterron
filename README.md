@@ -10,7 +10,7 @@
 
 -  💻 Actualmente me encuentro trabajando de Desarrollador Full Stack en una consultoría ubicada en madrid.
 
--  🌐 Para saber más sobre mí, puedes visitar mi <a a href="https://www.luisfernandezterron.com target="_blank">**portfolio**.</a>
+-  🌐 Para saber más sobre mí, puedes visitar mi <a href="https://www.luisfernandezterron.com target="_blank">**portfolio**.</a>
 
 -  💭 Pregúntame `lo que necesites`. Tanto si quieres conectar como realizar algun proyecto.
 
